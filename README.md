@@ -2,7 +2,7 @@
 3D Game Engine Design Final Project
 
 ## Project Description (Synopsis)
-This CSC 316 term project was intended to be a basic 3D remake of the game, Realm of the Mad God. Like the game’s initial game release, A player with the ability to shoot projectiles has been included, as well as multiple enemiesthat chase a player. The player must defeat enemies to survive and complete the game successfully.
+This CSC 316 term project was intended to be a basic 3D remake of the game, Realm of the Mad God. Like the game’s initial game release, A player with the ability to shoot projectiles has been included, as well as multiple enemies that chase a player. The player must defeat enemies to survive and complete the game successfully.
 
 ## Player
 The player’s objective is to survive enemy attacks while retaliating with attacks of their own. To avoid losing HP, the player will need to destroy as many enemies as possible, as well as attempt to outrun them. The player has the ability to move forward, left, and right. In addition to this movement range, the player can fire single projectiles, as well as multiple projectiles. When multiple projectiles are shot, they have no set direction and will destroy any enemy in the general vicinity.
