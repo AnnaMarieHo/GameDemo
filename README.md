@@ -1,5 +1,5 @@
 # GameDemo
-3D Game Engine Design Final Project
+3D Game Engine Design Project
 
 ## Project Description (Synopsis)
 This project was intended to be a basic 3D remake of the game, Realm of the Mad God. Like the game’s initial game release, A player with the ability to shoot projectiles has been included, as well as multiple enemies that chase a player. The player must defeat enemies to survive and complete the game successfully.
